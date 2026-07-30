@@ -1,6 +1,8 @@
 # Meme-stock-detector-
 Can show stocks and predict wether it will become a meme stock based on the sentiment of reddit posts
 
+Here is the  preview link: https://replitprojectzip--aw3s0m315t.replit.app 
+
 Build a web app called "ClosedInsider: Meme Stock Detector" from my project files. Unzip `replit_project.zip` into the project root first — all files live there.
 
 WHAT IT DOES: Analyzes posts and comments in r/wallstreetbets and classifies them into positive, negative, and neutral sentiment. The app will also allow you to see the change in stock price of various stocks over time, and predict what will happen based off of sentiment through the most recent comments and posts that we have access to.
